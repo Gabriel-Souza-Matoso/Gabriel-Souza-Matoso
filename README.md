@@ -29,7 +29,7 @@
 
 ## 🧠 Sobre mim
 
-- 🔭 Atualmente trabalhando em: *um quiz dinamico com GUI*
+- 🔭 Atualmente trabalhando em: *em um grande projeto com flask e request*
 - 🌱 Estudando: *CSS, C#, analise de dados*
 - 📫 Contato: *email: matosogabriel486@gmail.com, LinkedIn: www.linkedin.com/in/gabriel-matoso-b1592b372*
 - 😄 Pronomes: *ele/dele*
@@ -47,6 +47,7 @@
 ---
 ## 📓 Principais commits
 📂![Quiz com GUI e json](https://github.com/Gabriel-Souza-Matoso/Gabriel-Souza-Matoso-Quiz_com_GUI_e_json)
+📂![grafico de moedas criptos com framework plotly]([https://github.com/Gabriel-Souza-Matoso/Gabriel-Souza-Matoso-Quiz_com_GUI_e_json](https://github.com/Gabriel-Souza-Matoso/Grafico_das_cripto))
 
 ## 🌐 Onde me encontrar
 
