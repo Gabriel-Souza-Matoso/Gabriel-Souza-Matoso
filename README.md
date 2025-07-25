@@ -47,6 +47,7 @@
 ---
 ## 📓 Principais commits
 📂![Quiz com GUI e json](https://github.com/Gabriel-Souza-Matoso/Gabriel-Souza-Matoso-Quiz_com_GUI_e_json)
+
 📂![grafico de moedas criptos com framework plotly]([https://github.com/Gabriel-Souza-Matoso/Gabriel-Souza-Matoso-Quiz_com_GUI_e_json](https://github.com/Gabriel-Souza-Matoso/Grafico_das_cripto))
 
 ## 🌐 Onde me encontrar
