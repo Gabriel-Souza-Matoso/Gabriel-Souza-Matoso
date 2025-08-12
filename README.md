@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-💻 Desenvolvedor | 🥉 Medalhista em competição mundial de Robótica | 👨‍🏫 Palestrante da campus party| 🚀 Entusiasta de tecnologia | 🎓 Estudante universitário em Inteligência Artificial
+💻 Desenvolvedor | 🥉 Medalhista em competição mundial de Robótica | 👨‍🏫 Palestrante da campus party | 🚀 Entusiasta de tecnologia | 🎓 Estudante universitário em Inteligência Artificial
 </p>
 
 ---
