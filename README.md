@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-💻 Desenvolvedor | 🥉 Medalhista em competição mundial de Robótica | 👨‍🏫 Palestrante da campus party | 🚀 Entusiasta de tecnologia | 🎓 Estudante universitário em Inteligência Artificial
+💻 Desenvolvedor | 🥉 Medalhista em competição mundial de Robótica | 👨‍🏫 Palestrante da campus party | 🎓 Estudante universitário em Inteligência Artificial e ciência de dados
 </p>
 
 ---
@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/Code-C++-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00599C?logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Hardware-Arduino-00979D?logo=arduino&logoColor=white)
 
 ## 🧰 IDE's e ferramentas
@@ -29,8 +30,8 @@
 
 ## 🧠 Sobre mim
 
-- 🔭 Atualmente trabalhando em: *em um grande projeto com flask e request*
-- 🌱 Estudando: *CSS, C#, analise de dados*
+- 🔭 Atualmente trabalhando em: *em uma plantação monitorada com visão computacional com dados registrados em SQL*
+- 🌱 Estudando: *oracle data base, banco de dados não relacionais*
 - 📫 Contato: *email: matosogabriel486@gmail.com, LinkedIn: www.linkedin.com/in/gabriel-matoso-b1592b372*
 - 😄 Pronomes: *ele/dele*
 - ⚡ Curiosidade: *adoro jogar RPG de mesa e curto rock*
