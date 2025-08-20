@@ -31,7 +31,7 @@
 ## 🧠 Sobre mim
 
 - 🔭 Atualmente trabalhando em: *em uma plantação monitorada com visão computacional com dados registrados em SQL*
-- 🌱 Estudando: *oracle data base, banco de dados não relacionais*
+- 🌱 Estudando: *banco de dados não relacionais*
 - 📫 Contato: *email: matosogabriel486@gmail.com, LinkedIn: www.linkedin.com/in/gabriel-matoso-b1592b372*
 - 😄 Pronomes: *ele/dele*
 - ⚡ Curiosidade: *adoro jogar RPG de mesa e curto rock*
